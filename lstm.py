@@ -7,6 +7,7 @@ import sys
 import time
 
 import numpy
+
 import theano
 from theano import config
 import theano.tensor as tensor
